@@ -19,7 +19,7 @@ git clone git@github.com:facebookresearch/fairseq.git
 ```
 ### 4.Dataset
 1. SCAN(ICML'18)(https://github.com/brendenlake/SCAN)
-2. SCAN-MCD splits(ICLR'20)
+2. SCAN-MCD splits(ICLR'20)(https://www.tensorflow.org/datasets/catalog/scan#scanmcd1, (mcd2 and mcd3))
 3. COGS(EMNLP'20)(https://github.com/najoungkim/COGS)
 4. GeoQuery(https://www.cs.utexas.edu/users/ml/nldata/geoquery.html, template split from ACL'18)
 
